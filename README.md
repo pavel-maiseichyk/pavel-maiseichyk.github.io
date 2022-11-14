@@ -11,4 +11,4 @@ Title | Link
 Supermassive Black Hole| [Clip on YouTube](https://www.youtube.com/watch?v=Xsp3_a-PMTw)
 Starlight | [Clip on YouTube](https://www.youtube.com/watch?v=Pgum6OT_VH8)
 
-![picture/pic.jpg](picture/pic.jpg)
+![pic.jpg](pic.jpg)
